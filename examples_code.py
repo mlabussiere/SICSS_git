@@ -3,6 +3,8 @@ Examples git directory
 Created on Tue Jun  4 15:33:54 2024
 @author: mlabuss
 """
+print('Hello world')
+
 
 import random 
 # Not recommended
