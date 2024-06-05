@@ -5,6 +5,7 @@ Created on Tue Jun  4 15:33:54 2024
 """
 print('Hello world')
 
+3+3
 
 import random 
 # Not recommended
