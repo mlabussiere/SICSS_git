@@ -3,9 +3,9 @@ Examples git directory
 Created on Tue Jun  4 15:33:54 2024
 @author: mlabuss
 """
-print('Hello world')
+print('Hello SICSS summer school')
 
-3+3
+
 
 import random 
 # Not recommended
